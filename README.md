@@ -78,7 +78,7 @@ Output: 3
 **Example 1:**
 
 ```Python
-Input: s = "CodeschoolUz"
+Input: s = "ItMarkaz"
 Output: 2
 
 ```
@@ -94,8 +94,8 @@ Output: 2
 **Example 1:**
 
 ```Python
-Input: s = "CodeschoolUz"
-Output: 10
+Input: s = "ItMarkaz"
+Output: 6
 
 ```
 
@@ -110,8 +110,8 @@ Output: 10
 **Example 1:**
 
 ```Python
-Input: s = "CodeschoolUz"
-Output: 7
+Input: s = "ItMarkaz"
+Output: 5
 
 ```
 
