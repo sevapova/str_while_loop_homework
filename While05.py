@@ -6,4 +6,14 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    return c
+
+s='ASDFewrq12345'
+n=len(s)
+i=0
+c=0
+while i!=n:
+    if s[i].islower():   
+        c+=1
+    i+=1
+print(c)

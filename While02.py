@@ -6,4 +6,22 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    return c
+s='python 2424 12345'  
+n=len(s)
+i=0
+c=0
+while i!=n:
+    if s[i].isalpha():
+       c+=1
+    i+=1   
+    
+
+s="python 2424 12345"
+print (main(s==s))
+    
+ 
+       
+
+
+    

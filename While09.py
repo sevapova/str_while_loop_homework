@@ -6,4 +6,13 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+s='12345678'
+n=len(s)
+c=0
+i=0
+while n!=i:
+    if int (s[i]):
+        c+=1
+    i+=1
+    
+    

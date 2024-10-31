@@ -6,4 +6,16 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    
+    n=len(s)
+    i=0
+    c=0
+    while i!=n:
+            if s[i].isupper():
+                c+=1
+            i+=1
+    return c
+s='adQaA'
+print(main(s))
+        
+    

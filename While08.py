@@ -6,4 +6,15 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    
+s='123456789'
+n=len(s)
+c=0
+i=0
+while n!=i:
+    if int (s[i])%2==1:
+        c+=1
+    i+=1
+print(c)
+    
+    
